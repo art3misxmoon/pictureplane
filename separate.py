@@ -90,6 +90,6 @@ cv2.destroyAllWindows()
 
 # ---- Save layers to disk ----
 for i, layer in enumerate(layers):
-    out_path = f"layer_{i:02d}.png"
+    out_path = f"output/layer_{i:02d}.png"
     cv2.imwrite(out_path, cv2.cvtColor(layer, cv2.COLOR_RGBA2BGRA))
     print(f"Saved {out_path}")

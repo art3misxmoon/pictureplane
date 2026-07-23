@@ -1,0 +1,8 @@
+# model
+sam_vit_h_4b8939.pth
+
+# folders
+venv/
+output/
+
+.DS_Store
