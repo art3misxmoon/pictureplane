@@ -1,3 +1,5 @@
+![Hofmann painting segmented over image of code](thumbnail.png)
+
 components: 
 - separate the image into components
 - put each of those components into Blendr objects
