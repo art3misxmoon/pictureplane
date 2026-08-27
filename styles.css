@@ -1,0 +1,13 @@
+a {
+  text-decoration: underline;
+  color: red;
+}
+
+h1 {
+  color: red;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+}
